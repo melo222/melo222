@@ -2,21 +2,11 @@
 
 Ciao, sono Alessandro, ho 20 anni e sto studiando Sicurezza dei Sistemi e delle Reti informatiche presso l'Univesità Statale di Milano.
 
-#### The main goal
 
-con GitHub voglio pubblicare tutti i miei progetti di coding personali e/o per l'università, in modo da essere disponibili e mostrare le mie capacità 😉
+
+### The main goal 🎯
+
+con GitHub voglio pubblicare tutti i miei progetti di coding personali e/o per l'università, in modo da essere disponibili e mostrare le mie capacità :wink:
 
 <!--
-**melo222/melo222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**melo222/melo222** is a ✨ _spec
