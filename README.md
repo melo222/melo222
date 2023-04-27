@@ -1,6 +1,9 @@
-# Alessandro Meloni's GitHub
+# Alessandro Meloni's GitHub - Hi there
 
-Ciao, sono Alessandro, ho 20 anni e sto studiando Sicurezza dei Sistemi e delle Reti informatiche.
+Ciao, sono Alessandro, ho 20 anni e sto studiando Sicurezza dei Sistemi e delle Reti informatiche presso l'Univesità Statale di Milano.
+
+
+
 
 
 <!--
